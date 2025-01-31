@@ -63,3 +63,7 @@ A Python-based web crawler designed to perform efficient, breadth-first traversa
     - `paragraphs`: A list of paragraphs from the page
     - `images`: A list of image sources found on the page
 
+## Screenshots
+
+The output screenshots of the tested websites are available in the [output.pdf]([https://github.com/your-username/your-repository-name/blob/main/output.pdf](https://github.com/Ayesha-Jadoon/Web-Crawler/blob/main/Output.pdf)) file.
+
