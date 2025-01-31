@@ -65,6 +65,6 @@ A Python-based web crawler designed to perform efficient, breadth-first traversa
 
 ## Screenshots
 
-The output screenshots of the tested websites are available in the [Output.pdf](https://github.com/your-username/your-repository-name/blob/main/Output.pdf) file.
+The output screenshots of the tested websites are available in the [Output.pdf](https://github.com/Ayesha-Jadoon/Web-Crawler/blob/main/Output.pdf) file.
 
 
