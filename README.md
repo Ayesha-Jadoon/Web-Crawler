@@ -1,5 +1,4 @@
-# Web-Crawler
-
+# Simple Web Crawler
 
 A Python-based web crawler designed to perform efficient, breadth-first traversal of websites. This crawler extracts relevant content such as links, titles, headings, paragraphs, and images from webpages, stores the collected data in a structured JSON format, and respects `robots.txt` to ensure ethical crawling. It uses concurrent threads to speed up the crawling process while avoiding duplicates by leveraging hashing techniques.
 
@@ -43,7 +42,7 @@ A Python-based web crawler designed to perform efficient, breadth-first traversa
 
 3. Run the crawler:
     ```bash
-    python web_crawler.py
+    python main.py
     ```
 
 4. Enter the website URL when prompted for crawling.
@@ -64,5 +63,3 @@ A Python-based web crawler designed to perform efficient, breadth-first traversa
     - `paragraphs`: A list of paragraphs from the page
     - `images`: A list of image sources found on the page
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
