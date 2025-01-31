@@ -1,0 +1,711 @@
+[
+    {
+        "url": "http://quotes.toscrape.com/",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/login",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Albert-Einstein",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Albert Einstein"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: March 14, 1879 in Ulm, Germany",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/change/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: change",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/deep-thoughts/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: deep-thoughts",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/thinking/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: thinking",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/world/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: world",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/J-K-Rowling",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "J.K. Rowling"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: July 31, 1965 in Yate, South Gloucestershire, England, The United Kingdom",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/abilities/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: abilities",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/choices/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: choices",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/inspirational/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: inspirational",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/life/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: life",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/live/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: live",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/miracle/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: miracle",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/miracles/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: miracles",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Jane-Austen",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Jane Austen"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: December 16, 1775 in Steventon Rectory, Hampshire, The United Kingdom",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/aliteracy/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: aliteracy",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/books/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: books",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/classic/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: classic",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/humor/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: humor",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Marilyn-Monroe",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Marilyn Monroe"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: June 01, 1926 in The United States",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/be-yourself/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: be-yourself",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/adulthood/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: adulthood",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/success/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: success",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/value/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: value",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Andre-Gide",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Andr\u00e9 Gide"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: November 22, 1869 in Paris, France",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/love/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: love",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Thomas-A-Edison",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Thomas A. Edison"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: February 11, 1847 in Milan, Ohio, The United States",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/edison/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: edison",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/failure/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: failure",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/paraphrased/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: paraphrased",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Eleanor-Roosevelt",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Eleanor Roosevelt"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: October 11, 1884 in The United States",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: misattributed-eleanor-roosevelt",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/author/Steve-Martin",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Steve Martin"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "Born: August 14, 1945 in Waco, Texas, The United States",
+            "Description:",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/obvious/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: obvious",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/simile/page/1",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: simile",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/page/2",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/love",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: love",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/inspirational",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: inspirational",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/life",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: life",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/humor",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: humor",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/books",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: books",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/reading",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: reading",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/friendship",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: friendship",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/friends",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: friends",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/truth",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: truth",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    },
+    {
+        "url": "http://quotes.toscrape.com/tag/simile",
+        "title": "Quotes to Scrape",
+        "headings": [
+            "\nQuotes to Scrape\n",
+            "Viewing tag: simile",
+            "Top Ten tags"
+        ],
+        "paragraphs": [
+            "\nLogin\n",
+            "\n                Quotes by: GoodReads.com\n",
+            "\n                Made with \u2764 by Zyte\n"
+        ],
+        "images": []
+    }
+]
