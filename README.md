@@ -23,6 +23,12 @@ A Python-based web crawler designed to perform efficient, breadth-first traversa
 - www.google.com
 - https://www.daraz.pk/
 
+
+## Screenshots
+
+The output screenshots of the tested websites are available in the [Output.pdf](https://github.com/Ayesha-Jadoon/Web-Crawler/blob/main/Output.pdf) file.
+
+
 ## Requirements
 - Python 3.x
 - `requests` library
@@ -62,9 +68,4 @@ A Python-based web crawler designed to perform efficient, breadth-first traversa
     - `headings`: A list of headings (h1 to h6) found on the page
     - `paragraphs`: A list of paragraphs from the page
     - `images`: A list of image sources found on the page
-
-## Screenshots
-
-The output screenshots of the tested websites are available in the [Output.pdf](https://github.com/Ayesha-Jadoon/Web-Crawler/blob/main/Output.pdf) file.
-
 
